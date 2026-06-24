@@ -1,5 +1,5 @@
 # JavaScript-Hero
-Learn JavaScript with The Dev Mind
+Learn JavaScript with TechBugDebug
 
 
 
